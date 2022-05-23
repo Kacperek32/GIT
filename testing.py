@@ -17,3 +17,5 @@ print(f"W sumie kupuję {3*2} produktów")
 # blue is my favorite colour
 
 print("Wpadł facet do kanału i koniec kawału :)")
+
+print("Pozdrawiam Kodille")
